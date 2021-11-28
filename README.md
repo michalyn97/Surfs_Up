@@ -18,4 +18,5 @@ What I discovered is there is not much of a difference between the temperatues f
 # Summary
 Hawaii is a great place to live year round and it appears that opening a seasonal store such an ice cream shop may prove to be a profitable idea
 based upon our data.
-In the future, we may want to gather data on the precipitation for the Spring months and how that may affect the shop as wwll as temperatures for those months.  
+In the future, we may want to run queries on the average rainfall for June and December and how that may affect the shop as wwll as if there were
+any discrepancy in temperatures for the previous years.  
